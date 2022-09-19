@@ -1,0 +1,29 @@
+{
+     "text_entry_line":
+     {
+         "colours":
+         {
+             "dark_bg": "#25f92e,#FFFFFF,90",
+             "selected_bg": "#25f92e,#70A040,90",
+             "normal_text": "#cfcbd8",
+             "selected_text": "#F0FFFF",
+             "normal_border": "#25f92e,#70A040,90"
+         },
+         "font":
+         {
+             "name": "roboto",
+             "size": "14",
+             "bold": "0",
+             "italic": "0",
+             "regular_path": "tests/data/Roboto-Regular.ttf"
+         },
+         "misc":
+         {
+             "shape": "wild_hogs",
+             "shape_corner_radius": "wild_hogs",
+             "border_width": "wild_hogs",
+             "shadow_width": "wild_hogs",
+             "padding": "wild_hogs"
+         }
+     }
+ }

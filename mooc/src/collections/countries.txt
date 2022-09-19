@@ -1,0 +1,5 @@
+Adult literacy rate, population 15+ years, female (%),United Republic of Tanzania,2015,76.08978
+Adult literacy rate, population 15+ years, female (%),Zimbabwe,2015,85.28513
+Adult literacy rate, population 15+ years, male (%),Honduras,2014,87.39595
+Adult literacy rate, population 15+ years, male (%),Honduras,2015,88.32135
+Adult literacy rate, population 15+ years, male (%),Angola,2014,82.15105

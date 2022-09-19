@@ -1,0 +1,5 @@
+name: Luck
+version: 1.1.0
+author: ItsNotTim
+main: com.itsnottim.luck.Luck
+api-version: 1.17

@@ -1,0 +1,5 @@
+name: Swap
+version: 1.0.0
+author: ItsNotTim
+main: com.itsnottim.swap.Swap
+api-version: 1.17

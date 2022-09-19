@@ -1,0 +1,14 @@
+name: CommandsTest
+version: 1.0
+author: ItsNotTim
+main: com.itsnottim.commands.Commands
+api-version: 1.17
+commands:
+  jump:
+    description: Gives player jump boost 2 for 3 minutes.
+    usage: /<command>
+    aliases: givejump
+  strength:
+    description: Gives player strength 2 for 3 minutes.
+    usage: /<command>
+    aliases: givestrength
